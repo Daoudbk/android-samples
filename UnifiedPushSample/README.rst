@@ -1,8 +1,8 @@
 Unified PushSample
 ====================
 
-The unified PushSample is an example of how to create two separate version for the Google and Amazon
-app store with different versions of the Urban Airship SDK. In a future release, the Urban Airship
+The unified PushSample is an example of how to create two separate versions for the Google and Amazon
+app stores with different versions of the Urban Airship SDK. In a future release, the Urban Airship
 SDKs will be unified for both Amazon (ADM) and Google (GCM), but for now this is a stopgap solution to
 the problem. This sample is only compatible with Android Studio and the gradle build system. It takes
 advantage of the new manifest merger and application flavors.
